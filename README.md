@@ -2,7 +2,7 @@
 
 This project is an exploratory data analysis (EDA) of the **Titanic dataset**, using tools like `pandas`, `numpy`, `matplotlib`, and `seaborn`.
 
-> _**Note:** This is not a new project—similar analyses have been conducted by various data science experts. This version serves as a hands-on learning experience._
+> _**Note:** This is not a new project — similar analyses have been conducted by various data science experts. This version serves as a hands-on learning experience._
 
 ---
 
